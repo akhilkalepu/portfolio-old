@@ -1,0 +1,52 @@
+/* Navbar */
+
+
+
+/* About Me */
+
+.about {
+    margin: 15px;
+}
+    #about-img {
+        float: left;
+    }
+
+    #about-p {
+        float: right;
+    }
+    #about-skills {
+        float: right;
+        padding-left: 50px;
+    }
+    
+
+/* Portfolio */
+
+.card {
+    margin: 15px;
+    float: left;
+}
+
+/* Contact */
+
+form {
+    margin: 15px;
+}
+
+    .form-group {
+        max-width: 600px;
+    }
+
+    .emailHelp {
+        margin: 15px;
+    }
+
+
+/* Mobile */
+
+@media screen and (max-width: 992px) {
+    body p {
+        margin-top: 15px;
+    }
+}
+
